@@ -1,4 +1,5 @@
 # monorepository
+<<<<<<< HEAD
 
 Um exemplo simples de mono-repositório utilizando html e javascript.
 
@@ -15,3 +16,6 @@ Explicação:
 
 •	Nas pastas ArmazenamentoDeDados e Estilos, contém arquivos necessários para a utilização dos dois projetos.
 •	Em PackagesSimulator, contém uma simulação de dependências para nosso projeto, em muitos projetos elas são realmente necessárias. Em nosso caso, foi criado apenas para maiores explicações de funcionamento de um mono-repositório.
+=======
+Um exemplo simples de mono-repositório
+>>>>>>> 2b00332305264cc6d5013ae43080d3e8f4083a3a
