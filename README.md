@@ -1,5 +1,4 @@
 # monorepository
-<<<<<<< HEAD
 
 Um exemplo simples de mono-repositório utilizando html e javascript.
 
@@ -8,14 +7,11 @@ Esta demonstração é apenas para exemplificar o funcionamento de um mono-repos
 Explicação: 
 1.	O mono-repo está guardado no Github, podendo ser clonado a partir deste link: https://github.com/matheugoes/monorepository. 
 
-•	Não é necessário instalação de nenhuma dependência, como já dito anteriormente.
-•	A pasta AppConsultar, que contém o arquivo index.html, é uma simulação de um primeiro projeto, para consultas de dados. 
-•	A pasta AppAdministrar, que contém o arquivo index.html, é uma simulação de um segundo projeto, para administração de dados. 
+-	Não é necessário instalação de nenhuma dependência, como já dito anteriormente.
+-	A pasta AppConsultar, que contém o arquivo index.html, é uma simulação de um primeiro projeto, para consultas de dados. 
+-	A pasta AppAdministrar, que contém o arquivo index.html, é uma simulação de um segundo projeto, para administração de dados. 
 
 2.	Para executá-los é necessário apenas abri-los com algum navegador. 
 
-•	Nas pastas ArmazenamentoDeDados e Estilos, contém arquivos necessários para a utilização dos dois projetos.
-•	Em PackagesSimulator, contém uma simulação de dependências para nosso projeto, em muitos projetos elas são realmente necessárias. Em nosso caso, foi criado apenas para maiores explicações de funcionamento de um mono-repositório.
-=======
-Um exemplo simples de mono-repositório
->>>>>>> 2b00332305264cc6d5013ae43080d3e8f4083a3a
+-	Nas pastas ArmazenamentoDeDados e Estilos, contém arquivos necessários para a utilização dos dois projetos.
+-	Em PackagesSimulator, contém uma simulação de dependências para nosso projeto, em muitos projetos elas são realmente necessárias. Em nosso caso, foi criado apenas para maiores explicações de funcionamento de um mono-repositório.
