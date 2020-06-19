@@ -30,7 +30,7 @@ function load(){
   //   }
   // });
   dados = [
-    {"id": 1, "nome" : "Matheu", "idade" : "20"},
+    {"id": 1, "nome" : "Vinicius", "idade" : "20"},
     {"id": 2, "nome" : "Alex", "idade" : "23"},
     {"id": 3, "nome" : "Igor", "idade" : "30"},
     {"id": 4, "nome" : "Antonio", "idade" : "45"}
