@@ -5,9 +5,7 @@
   box-sizing: border-box;
 }
 
-html, body, #root {
-  min-height: 100%;
-}
+
 
 body {
   background: #f7f7f7;
@@ -44,6 +42,7 @@ body, input, button {
 }
 
 .add {
+  margin-top: 10px;
   border: none;
   border-radius: 2px;
   width: 100%;
@@ -54,3 +53,21 @@ body, input, button {
   cursor: pointer;
 }
 
+.tabela {
+  background-color: #FFFFFF;
+  width: 100%;
+}
+.tabela tbody td {
+  font-size: 13px;
+}
+.tabela tr:nth-child(even) {
+  background: #fafafa;
+}
+
+input {
+  fdsfs
+}
+
+.name {
+  margin-bottom: 1px;
+}
